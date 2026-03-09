@@ -1,4 +1,7 @@
-# Student Score Analyzer – Unit Testing with JUnit
+# BÀI TẬP THỰC HÀNH 1
+<img width="619" height="310" alt="{6143B63F-FB7D-4AFD-8E90-4CAE41377AEC}" src="https://github.com/user-attachments/assets/c4dda7e3-71b8-46bc-8240-5c691538fb98" />
+
+# BÀI TẬP THỰC HÀNH 2: Student Score Analyzer – Unit Testing with JUnit
 
 ## 1. Giới thiệu
 
