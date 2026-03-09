@@ -298,17 +298,10 @@ Cypress sẽ tự động mở trình duyệt và chạy các test case.
 ## 6. Kết quả
 
 Các test case đã được chạy thành công bằng Cypress và hiển thị trạng thái **PASS**.
+<img width="960" height="505" alt="{EDC17F48-7BDD-4817-94F4-DF4B1E384551}" src="https://github.com/user-attachments/assets/39c8d545-11ac-4706-8969-cc46454b360a" />
+
+
 
 ---
 
-## 7. Tác giả
-
-Nguyễn Đình Vũ
-
----
-
-# 9. Tác giả
-
-Nguyễn Đình Vũ
-Sinh viên ngành Công nghệ Thông tin
 
